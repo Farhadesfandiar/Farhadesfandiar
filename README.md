@@ -12,7 +12,8 @@ Here are some live websites I have contribute in:
  :+1: C++
  
 :+1: Experienced in building and interacting with RESTful APIs and data modeling.
-:+1: Hands in Crypto area, running full nodes in Ethereum, Bitcoin, Tron networks
+:+1: Hands in Crypto area, running full nodes in Ethereum, Bitcoin, Tron networks. Implementing web3, RPC, Infura in dApp.
+:+1: Strong knowledge of common algorithms and data structures.
 :+1: An advanced understanding of the programming concept object-oriented and problem-solving.
 
 <!--

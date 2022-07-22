@@ -1,6 +1,6 @@
 ### Hi there, Nice to see you here 👋
 
-Here are some live websites I have contribute in:
+Here are some live websites I have contributed in:
  🌱 Crypto Exchange Website [arsinex.com](arsinex.com)
  🌱 E-commerce for Crypto [E-commerce](commerce.arsinex.com)
  🌱 NFT Market Place [Coinciding](coinciding.co)

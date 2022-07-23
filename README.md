@@ -1,4 +1,4 @@
-### Hi there, Nice to see you here 👋
+### Hi there 👋
 
 Here are some live websites I have contributed in:
  🌱 Crypto Exchange Website [arsinex.com](https://arsinex.com)

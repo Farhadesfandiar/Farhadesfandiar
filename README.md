@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some live websites I have contributed in:
-
  
  :fist: Languages and frameworks I've worked with:
  :+1: PHP (Laravel, CodeIgniter)

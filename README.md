@@ -5,7 +5,7 @@
  :+1: PHP (Laravel, CodeIgniter)
  :+1: JS (Node.JS, TypeScript)
  :+1: Go (Confetti)
- :+1: C++
+ :+1: C++(Omnet++, NS3
  
 :+1: Experienced in building and interacting with RESTful APIs and data modeling.
 :+1: Hands in Crypto area, running full nodes in Ethereum, Bitcoin, Tron networks. Implementing web3, RPC, Infura in dApp.

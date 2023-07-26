@@ -2,7 +2,7 @@
 
  
  :fist: Languages and frameworks I've worked with:
- :+1: PHP (Laravel, CodeIgniter)
+ :+1: PHP (Laravel, Symfony, CodeIgniter)
  :+1: JS (Node.JS)
  :+1: Go (Confetti)
  :+1: C++(Omnet++, NS3)
